@@ -1,3 +1,8 @@
+#梶浦のデータ収集のために
+・/CodeXGLUE/Text-Code/NL-code-search-WebQuery/CoSQA/cosqa-all.json
+・/CodeXGLUE/Text-Code/NL-code-search-WebQuery/data/test_webquery.json
+こちらに関係するjsonファイルに関して、リストに入っていて読み込めないので、ファイルの頭と末尾にある括弧を消去して読めるか確かめる。
+
 # Introduction
 
 According to [Evans Data Corporation](https://evansdata.com/press/viewRelease.php?pressID=278), there are 23.9 million professional developers in 2019, and the population is expected to reach 28.7 million in 2024. With the growing population of developers, code intelligence, which aims to leverage AI to help software developers improve the productivity of the development process, is growing increasingly important in both communities of software engineering and artificial intelligence. 
